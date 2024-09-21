@@ -1,0 +1,1 @@
+<!-- Admin page to manage categories -->
